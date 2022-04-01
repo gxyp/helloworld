@@ -22,8 +22,8 @@ jobs:
             tag: sdk-ipq40xx_generic
 
           - arch: mipsel_24kc
-            target: ramips-mt7621
-            tag: sdk-ramips_mt7621
+            target: ramips-mt7620
+            tag: sdk-ramips_mt7620
 
           - arch: x86_64
             target: x86-64
